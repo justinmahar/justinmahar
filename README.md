@@ -11,7 +11,7 @@ Check out my website for more information → [justinmahar.com](https://justinma
 
 #### Support
 
-To support my open source work, please consider buying me a coffee or sponsoring me. Your support is much appreciated!
+To support my open source work, please consider buying me a coffee or sponsoring me. Doing so will forever guarantee your place in the Hall of Awesome. Your support is much appreciated!
 
 <a href="https://ko-fi.com/justinmahar"><img src="https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=%E2%9D%A4&logo=KoFi&color=%23fe8e86" alt="Buy me a coffee" /></a>&nbsp;<a href="https://github.com/sponsors/justinmahar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/></a>
 
