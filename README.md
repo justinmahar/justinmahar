@@ -2,7 +2,7 @@
 
 I'm a full stack software engineer from Upstate NY with a passion for designing and building cutting-edge, cost-effective web applications. 
 
-You can learn more at my website → [justinmahar.com](https://justinmahar.com/)
+Check out my website for more information → [justinmahar.com](https://justinmahar.com/)
 
 ###### Open Source Projects on [GitHub](https://github.com/justinmahar/)
 
