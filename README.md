@@ -3,8 +3,8 @@
 I'm a full stack software engineer from Upstate NY with a passion for designing and building cutting-edge, cost-effective web applications. 
 
 Quick stats:
-- Average 250k+ total npm package downloads per month
-- 30k+ VS Code extension installations
+- Average 250k+ total npm package downloads per month 🔥🔥🔥
+- 30k+ VS Code extension installations 👨‍💻👩‍💻👨‍💻👩‍💻
 - 15+ years experience being a professional nerd 🤓
 
 Check out my website for more information → [justinmahar.com](https://justinmahar.com/)
