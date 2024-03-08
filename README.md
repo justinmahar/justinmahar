@@ -1,4 +1,4 @@
-![Justin Mahar](https://raw.githubusercontent.com/justinmahar/justinmahar/master/images/banner.webp)
+[![Justin Mahar](https://raw.githubusercontent.com/justinmahar/justinmahar/master/images/banner.webp)](https://justinmahar.com/)
 
 I'm a full stack software engineer from Upstate NY with a passion for designing and building cutting-edge, cost-effective web applications. 
 
