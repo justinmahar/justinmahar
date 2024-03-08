@@ -1,4 +1,4 @@
-### Hey, I'm Justin 👋
+![Justin Mahar](https://raw.githubusercontent.com/justinmahar/justinmahar/master/images/banner.webp)
 
 I'm a full stack software engineer from Upstate NY with a passion for designing and building cutting-edge, cost-effective web applications. 
 
