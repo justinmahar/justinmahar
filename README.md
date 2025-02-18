@@ -57,4 +57,3 @@ To support my open source work, please consider buying me a coffee or sponsoring
 | 📜 [The Stoic Devotional](https://stoicdevotional.com/)      | 1% wiser every day with Stoicism                  |
 | 📚 [Books For Entrepreneurs](https://books.justinmahar.com/) | Animated book summaries for business and life     |
 | 👹 [Search Ogre](https://search.justinmahar.com/)            | Consolidate your searches into a single dashboard |
-ƒ
